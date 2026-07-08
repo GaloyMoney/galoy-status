@@ -3,6 +3,8 @@ repo: galoy-status
 user-agent: galoy-status
 
 workflowSchedule:
+  graphs: "5 * * * *"
+  responseTime: "0 * * * *"
   uptime: "*/5 * * * *"
 
 sites:
