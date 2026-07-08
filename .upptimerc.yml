@@ -2,6 +2,9 @@ owner: GaloyMoney
 repo: galoy-status
 user-agent: galoy-status
 
+workflowSchedule:
+  uptime: "*/5 * * * *"
+
 sites:
   - name: Admin Panel
     url: https://admin.main.staging.galoy.io/health
