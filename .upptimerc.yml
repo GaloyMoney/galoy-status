@@ -1,0 +1,47 @@
+owner: GaloyMoney
+repo: galoy-status
+user-agent: galoy-status
+
+sites:
+  - name: Admin Panel
+    url: https://admin.main.staging.galoy.io/health
+    expectedStatusCodes:
+      - 200
+    __dangerous__body_down_if_text_missing: "OK"
+
+  - name: Partner Portal
+    url: https://partner.main.staging.galoy.io/health
+    expectedStatusCodes:
+      - 200
+    __dangerous__body_down_if_text_missing: "OK"
+
+  - name: Customer Portal
+    url: https://app.main.staging.galoy.io/graphql
+    expectedStatusCodes:
+      - 200
+    __dangerous__body_down_if_text_missing: "OK"
+
+  - name: Customer GraphQL API
+    url: https://app.main.staging.galoy.io/graphql
+    method: POST
+    headers:
+      - "Content-Type: application/json"
+    body: '{ "query": "{ __typename }" }'
+    expectedStatusCodes:
+      - 401
+    __dangerous__body_down_if_text_missing: "Missing token"
+
+status-website:
+  baseUrl: /galoy-status
+  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  name: Galoy Status
+  introTitle: "Galoy Platform Status"
+  introMessage: Status checks for the Galoy staging main platform, powered by GitHub Actions, GitHub Issues, and GitHub Pages.
+  navbar:
+    - title: Status
+      href: /
+    - title: GitHub
+      href: https://github.com/$OWNER/$REPO
+
+# Upptime also supports notifications, assigning issues, and more.
+# See https://upptime.js.org/docs/configuration
