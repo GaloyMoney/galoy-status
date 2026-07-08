@@ -3,7 +3,7 @@ repo: galoy-status
 user-agent: galoy-status
 
 workflowSchedule:
-  uptime: "*/5 * * * *"
+  uptime: "2-59/5 * * * *"
 
 sites:
   - name: Admin Panel
