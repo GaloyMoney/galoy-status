@@ -1,7 +1,7 @@
 url: https://app.main.staging.galoy.io/graphql
-status: down
-code: 503
-responseTime: 231
-lastUpdated: 2026-07-15T14:55:19.790Z
+status: up
+code: 200
+responseTime: 348
+lastUpdated: 2026-07-15T15:28:20.759Z
 startTime: 2026-07-08T08:17:47.614Z
 generator: Upptime <https://github.com/upptime/upptime>
