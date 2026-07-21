@@ -4,17 +4,17 @@
     "url": "https://admin.main.staging.galoy.io/health",
     "icon": "https://icons.duckduckgo.com/ip3/admin.main.staging.galoy.io.ico",
     "slug": "admin-panel",
-    "status": "down",
-    "uptime": "94.50%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "91.20%",
-    "uptimeMonth": "94.50%",
-    "uptimeYear": "94.50%",
-    "time": 273,
-    "timeDay": 288,
-    "timeWeek": 271,
-    "timeMonth": 273,
-    "timeYear": 273,
+    "status": "up",
+    "uptime": "94.46%",
+    "uptimeDay": "99.17%",
+    "uptimeWeek": "91.13%",
+    "uptimeMonth": "94.46%",
+    "uptimeYear": "94.46%",
+    "time": 274,
+    "timeDay": 292,
+    "timeWeek": 272,
+    "timeMonth": 274,
+    "timeYear": 274,
     "dailyMinutesDown": {
       "2026-07-08": 3,
       "2026-07-10": 135,
@@ -24,7 +24,7 @@
       "2026-07-16": 133,
       "2026-07-17": 401,
       "2026-07-20": 90,
-      "2026-07-21": 1
+      "2026-07-21": 8
     }
   },
   {
@@ -32,15 +32,15 @@
     "url": "https://partner.main.staging.galoy.io/health",
     "icon": "https://icons.duckduckgo.com/ip3/partner.main.staging.galoy.io.ico",
     "slug": "partner-portal",
-    "status": "down",
-    "uptime": "94.52%",
-    "uptimeDay": "99.29%",
-    "uptimeWeek": "91.23%",
-    "uptimeMonth": "94.52%",
-    "uptimeYear": "94.52%",
+    "status": "up",
+    "uptime": "94.48%",
+    "uptimeDay": "99.18%",
+    "uptimeWeek": "91.15%",
+    "uptimeMonth": "94.48%",
+    "uptimeYear": "94.48%",
     "time": 259,
-    "timeDay": 253,
-    "timeWeek": 250,
+    "timeDay": 257,
+    "timeWeek": 249,
     "timeMonth": 259,
     "timeYear": 259,
     "dailyMinutesDown": {
@@ -52,7 +52,7 @@
       "2026-07-16": 133,
       "2026-07-17": 400,
       "2026-07-20": 89,
-      "2026-07-21": 1
+      "2026-07-21": 8
     }
   },
   {
@@ -60,15 +60,15 @@
     "url": "https://app.main.staging.galoy.io/graphql",
     "icon": "https://icons.duckduckgo.com/ip3/app.main.staging.galoy.io.ico",
     "slug": "customer-portal",
-    "status": "down",
-    "uptime": "95.17%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "92.48%",
-    "uptimeMonth": "95.17%",
-    "uptimeYear": "95.17%",
+    "status": "up",
+    "uptime": "95.13%",
+    "uptimeDay": "99.19%",
+    "uptimeWeek": "92.41%",
+    "uptimeMonth": "95.13%",
+    "uptimeYear": "95.13%",
     "time": 277,
-    "timeDay": 219,
-    "timeWeek": 271,
+    "timeDay": 232,
+    "timeWeek": 270,
     "timeMonth": 277,
     "timeYear": 277,
     "dailyMinutesDown": {
@@ -79,7 +79,7 @@
       "2026-07-16": 94,
       "2026-07-17": 400,
       "2026-07-20": 89,
-      "2026-07-21": 0
+      "2026-07-21": 8
     }
   },
   {
@@ -95,7 +95,7 @@
     "uptimeYear": "95.67%",
     "time": 205,
     "timeDay": 218,
-    "timeWeek": 208,
+    "timeWeek": 207,
     "timeMonth": 205,
     "timeYear": 205,
     "dailyMinutesDown": {
