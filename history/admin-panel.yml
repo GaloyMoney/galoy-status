@@ -1,7 +1,7 @@
 url: https://admin.main.staging.galoy.io/health
-status: down
-code: 503
-responseTime: 296
-lastUpdated: 2026-08-09T23:06:55.950Z
+status: up
+code: 200
+responseTime: 285
+lastUpdated: 2026-08-09T23:10:51.856Z
 startTime: 2026-07-08T08:17:46.254Z
 generator: Upptime <https://github.com/upptime/upptime>
