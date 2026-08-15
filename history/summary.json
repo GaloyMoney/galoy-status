@@ -6,7 +6,7 @@
     "slug": "admin-panel",
     "status": "down",
     "uptime": "96.79%",
-    "uptimeDay": "99.03%",
+    "uptimeDay": "99.00%",
     "uptimeWeek": "96.43%",
     "uptimeMonth": "96.67%",
     "uptimeYear": "96.79%",
@@ -36,7 +36,7 @@
       "2026-08-10": 15,
       "2026-08-12": 96,
       "2026-08-11": 230,
-      "2026-08-15": 14
+      "2026-08-15": 15
     }
   },
   {
@@ -51,7 +51,7 @@
     "uptimeMonth": "96.69%",
     "uptimeYear": "96.81%",
     "time": 271,
-    "timeDay": 263,
+    "timeDay": 258,
     "timeWeek": 273,
     "timeMonth": 272,
     "timeYear": 271,
@@ -90,8 +90,8 @@
     "uptimeMonth": "97.23%",
     "uptimeYear": "97.39%",
     "time": 271,
-    "timeDay": 259,
-    "timeWeek": 260,
+    "timeDay": 262,
+    "timeWeek": 261,
     "timeMonth": 268,
     "timeYear": 271,
     "dailyMinutesDown": {
@@ -127,8 +127,8 @@
     "uptimeMonth": "97.41%",
     "uptimeYear": "97.67%",
     "time": 213,
-    "timeDay": 222,
-    "timeWeek": 217,
+    "timeDay": 219,
+    "timeWeek": 216,
     "timeMonth": 217,
     "timeYear": 213,
     "dailyMinutesDown": {
