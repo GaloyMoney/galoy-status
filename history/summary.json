@@ -4,16 +4,16 @@
     "url": "https://admin.main.staging.galoy.io/health",
     "icon": "https://icons.duckduckgo.com/ip3/admin.main.staging.galoy.io.ico",
     "slug": "admin-panel",
-    "status": "up",
-    "uptime": "97.21%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.18%",
-    "uptimeMonth": "98.15%",
-    "uptimeYear": "97.21%",
+    "status": "down",
+    "uptime": "97.24%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.33%",
+    "uptimeMonth": "98.20%",
+    "uptimeYear": "97.24%",
     "time": 286,
-    "timeDay": 285,
-    "timeWeek": 295,
-    "timeMonth": 284,
+    "timeDay": 279,
+    "timeWeek": 297,
+    "timeMonth": 285,
     "timeYear": 286,
     "dailyMinutesDown": {
       "2026-07-08": 3,
@@ -43,7 +43,8 @@
       "2026-08-19": 20,
       "2026-08-20": 6,
       "2026-08-21": 5,
-      "2026-08-22": 22
+      "2026-08-22": 22,
+      "2026-08-25": 1
     }
   },
   {
@@ -51,16 +52,16 @@
     "url": "https://partner.main.staging.galoy.io/health",
     "icon": "https://icons.duckduckgo.com/ip3/partner.main.staging.galoy.io.ico",
     "slug": "partner-portal",
-    "status": "up",
-    "uptime": "97.32%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "98.30%",
-    "uptimeYear": "97.32%",
+    "status": "down",
+    "uptime": "97.35%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "98.35%",
+    "uptimeYear": "97.35%",
     "time": 280,
-    "timeDay": 450,
-    "timeWeek": 329,
-    "timeMonth": 289,
+    "timeDay": 276,
+    "timeWeek": 325,
+    "timeMonth": 288,
     "timeYear": 280,
     "dailyMinutesDown": {
       "2026-07-08": 3,
@@ -86,7 +87,8 @@
       "2026-08-16": 10,
       "2026-08-17": 52,
       "2026-08-19": 20,
-      "2026-08-20": 1
+      "2026-08-20": 1,
+      "2026-08-25": 1
     }
   },
   {
@@ -94,16 +96,16 @@
     "url": "https://app.main.staging.galoy.io/graphql",
     "icon": "https://icons.duckduckgo.com/ip3/app.main.staging.galoy.io.ico",
     "slug": "customer-portal",
-    "status": "up",
-    "uptime": "97.86%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "97.88%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.86%",
-    "uptimeYear": "97.86%",
+    "uptimeMonth": "98.91%",
+    "uptimeYear": "97.88%",
     "time": 275,
-    "timeDay": 282,
+    "timeDay": 272,
     "timeWeek": 295,
-    "timeMonth": 275,
+    "timeMonth": 276,
     "timeYear": 275,
     "dailyMinutesDown": {
       "2026-07-08": 2,
@@ -125,7 +127,8 @@
       "2026-08-11": 229,
       "2026-08-15": 13,
       "2026-08-16": 10,
-      "2026-08-17": 23
+      "2026-08-17": 23,
+      "2026-08-25": 0
     }
   },
   {
@@ -133,17 +136,17 @@
     "url": "https://app.main.staging.galoy.io/graphql",
     "icon": "https://icons.duckduckgo.com/ip3/app.main.staging.galoy.io.ico",
     "slug": "customer-graph-ql-api",
-    "status": "up",
-    "uptime": "98.11%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "98.13%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.01%",
-    "uptimeYear": "98.11%",
-    "time": 216,
-    "timeDay": 217,
-    "timeWeek": 231,
-    "timeMonth": 223,
-    "timeYear": 216,
+    "uptimeMonth": "99.06%",
+    "uptimeYear": "98.13%",
+    "time": 221,
+    "timeDay": 387,
+    "timeWeek": 254,
+    "timeMonth": 229,
+    "timeYear": 221,
     "dailyMinutesDown": {
       "2026-07-08": 2,
       "2026-07-10": 61,
@@ -161,7 +164,8 @@
       "2026-08-12": 96,
       "2026-08-11": 229,
       "2026-08-15": 13,
-      "2026-08-17": 11
+      "2026-08-17": 11,
+      "2026-08-25": 0
     }
   }
 ]
