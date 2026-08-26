@@ -4,14 +4,14 @@
     "url": "https://admin.main.staging.galoy.io/health",
     "icon": "https://icons.duckduckgo.com/ip3/admin.main.staging.galoy.io.ico",
     "slug": "admin-panel",
-    "status": "down",
-    "uptime": "97.26%",
-    "uptimeDay": "98.65%",
-    "uptimeWeek": "99.29%",
-    "uptimeMonth": "98.16%",
-    "uptimeYear": "97.26%",
+    "status": "up",
+    "uptime": "97.24%",
+    "uptimeDay": "97.62%",
+    "uptimeWeek": "99.14%",
+    "uptimeMonth": "98.12%",
+    "uptimeYear": "97.24%",
     "time": 285,
-    "timeDay": 263,
+    "timeDay": 261,
     "timeWeek": 284,
     "timeMonth": 283,
     "timeYear": 285,
@@ -45,7 +45,7 @@
       "2026-08-21": 5,
       "2026-08-22": 22,
       "2026-08-25": 19,
-      "2026-08-26": 0
+      "2026-08-26": 15
     }
   },
   {
